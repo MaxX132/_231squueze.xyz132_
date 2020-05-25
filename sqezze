@@ -1,1 +1,8 @@
-
+{
+version : '0.1',
+downloadLink : 'http://sqezee.smsmc.net/sqezze.dll',
+Message : '0.1',
+ChangeLog : 'http://sqezee.smsmc.net/changelog.txt',
+isClose : 'true',
+filename : 'SqezzeLoader.exe'
+}
